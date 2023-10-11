@@ -16,14 +16,6 @@ The aim of the BOT is also to remove a given mobile number from each given file 
 • Append Output and Remove Redundancy (Data)<br>
 • Remove Not Required Mobile Numbers
 
-### Flowchart
-![alt text](https://i.ibb.co/bmggHGW/Picture1.png)
-
-## Developers
-
-#### Made with ❤️ by:
-##### Dhruv Dixit : [Github](https://github.com/dhruvdixit06) [Linkedin](https://www.linkedin.com/in/dhruv-dixit/)
-##### Dhreeti Kesharwani [Github](https://github.com/dhreeti414) [Linkedin](https://www.linkedin.com/in/dhreetikesharwani/)
 
 ## Instructions/Dependencies/Installation
 1. Open Chrome or any other browser installed in your system. (If not, download the same)<br>
@@ -64,5 +56,3 @@ The aim of the BOT is also to remove a given mobile number from each given file 
 23. Now, let the bot do the work.<br>
 24. After the operations have been finished check the files modified as output.
 
-### NOTE
-This project was created by TEAM DDDK (Dhruv Dixit [Leader] and Dhreeti Kesharwani) as a part of offline national level hackathon Botathon 2.0 conducted at JECRC University, Jaipur sponsored by UiPath based on Robotic Process Automation. We won 2nd prize representing our college United College of Engineering and Management, Praygraj, Uttar Pradesh among 136 teams participating from 17 states of India.
